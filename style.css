@@ -1,0 +1,13 @@
+.nome{
+    color: red;
+    display: flex;
+justify-content: center;
+font-family:  Verdana
+}
+    .Centro{
+justify-content: center;
+display: flex;
+    }
+    .corpo{
+        background-color: rgb(233, 226, 226);
+    }
